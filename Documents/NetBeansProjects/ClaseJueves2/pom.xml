@@ -10,4 +10,5 @@
         <maven.compiler.release>24</maven.compiler.release>
         <exec.mainClass>com.mycompany.clasejueves2.ClaseJueves2</exec.mainClass>
     </properties>
+    <name>Proyecto_Estructura_Datos</name>
 </project>
