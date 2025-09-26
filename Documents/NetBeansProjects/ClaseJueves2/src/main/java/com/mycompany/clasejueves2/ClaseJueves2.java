@@ -13,9 +13,13 @@ package com.mycompany.clasejueves2;
  */
 public class ClaseJueves2 {
 
-    public static int numero = 1;
+    
     
     public static void main(String[] args) {
-        System.out.println("Hello World!" + numero);
+        int numero = 1;
+    
+    
+        String nombre = "Roger";
+        System.out.println("Hello World!" + numero + " "+ nombre);
     }
 }
