@@ -15,6 +15,6 @@ public class Proyecto_Estructura_Datos {
     
     
         String nombre = "Roger";
-        System.out.println("Hello World!" + numero + " "+ nombre);
+        System.out.println("Hello Mundo!" + numero + " "+ nombre);
     }
 }
