@@ -19,7 +19,7 @@ public class ClaseJueves2 {
         int numero = 1;
     
     
-        String nombre = "Roger";
-        System.out.println("Hello World!" + numero + " "+ nombre);
+        String nombre = "Pedrito";
+        System.out.println("Hi World!" + numero + " "+ nombre);
     }
 }
